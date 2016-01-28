@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="498f94c0-2d68-41c2-ad4a-8b2a99bee57e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos/LEIAME.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos/votacao_partido_munzona_2010_AC.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos/votacao_partido_munzona_2010_AM.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos/votacao_partido_munzona_2010_AP.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos/votacao_partido_munzona_2010_BA.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos/votacao_partido_munzona_2010_BR.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos/votacao_partido_munzona_2010_CE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos/votacao_partido_munzona_2010_DF.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos/votacao_partido_munzona_2010_ES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos/votacao_partido_munzona_2010_GO.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos/votacao_partido_munzona_2010_MA.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos/votacao_partido_munzona_2010_MG.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos/votacao_partido_munzona_2010_MS.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos/votacao_partido_munzona_2010_MT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos/votacao_partido_munzona_2010_PA.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos/votacao_partido_munzona_2010_PB.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos/votacao_partido_munzona_2010_PE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos/votacao_partido_munzona_2010_PI.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos/votacao_partido_munzona_2010_PR.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos/votacao_partido_munzona_2010_RJ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos/votacao_partido_munzona_2010_RN.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos/votacao_partido_munzona_2010_RO.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos/votacao_partido_munzona_2010_RR.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos/votacao_partido_munzona_2010_RS.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos/votacao_partido_munzona_2010_SC.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos/votacao_partido_munzona_2010_SE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos/votacao_partido_munzona_2010_SP.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos/votacao_partido_munzona_2010_TO.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos/votacao_partido_munzona_2010_VT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos/votacao_partido_munzona_2010_ZZ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos_compilados/AP.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos_compilados/BA.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos_compilados/CE.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos_compilados/DF.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos_compilados/ES.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos_compilados/GO.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos_compilados/MA.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos_compilados/MG.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos_compilados/MS.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos_compilados/MT.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos_compilados/PA.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos_compilados/PB.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos_compilados/PE.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos_compilados/PI.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos_compilados/PR.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos_compilados/RJ.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos_compilados/RN.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos_compilados/RO.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos_compilados/RR.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos_compilados/RS.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos_compilados/SC.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos_compilados/SE.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos_compilados/SP.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos_compilados/TO.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos_compilados/ac.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos_compilados/al.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/votos_compilados/am.csv" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/votacao_partido_munzona_2010_AL.txt" afterPath="$PROJECT_DIR$/votos/votacao_partido_munzona_2010_AL.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MSql .ipynb" afterPath="$PROJECT_DIR$/MSql .ipynb" />
+    </list>
+    <ignored path="pandas.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="pandas" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MSql .ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MSql .ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="-1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1855" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pandas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pandas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pandas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="498f94c0-2d68-41c2-ad4a-8b2a99bee57e" name="Default" comment="" />
+      <created>1453978826955</created>
+      <option name="number" value="Default" />
+      <updated>1453978826955</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1855" height="1056" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32878152" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MSql .ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MSql .ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
